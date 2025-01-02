@@ -64,15 +64,14 @@ Customer service plays a pivotal role in sustaining brand loyalty. How does Magi
 
 ## Repository Structure
 
-- **1_Magist_Dataset**: Contains Magist datasets dump file used for analysis.
+- **1_Magist_Schema**: A picture of SQL Database Schema Designs.
 
-- **2_Magist_Schema**: A picture of SQL Database Schema Designs.
-
-- **3_SQL_Scripts**: SQL scripts used to analyze the data, including:
+- **2_SQL_Scripts**: SQL scripts used to analyze the data, including:
+   - **0-General-questions.sql**: Analysis the general questions.
    - **1-Business-questions-products.sql**: Analysis business questions related to products.
    - **2-Business-questions-sellers.sql**: Analysis business questions related to sellers.
    - **3-Business-questions-delivery-time.sql**: Analysis business questions related to delivery time.
-- **4_Output**: include a presentation of the key findings from the analysis.
+- **3_Output**: include a presentation of the key findings from the analysis.
 
 ## Conclusion
 
